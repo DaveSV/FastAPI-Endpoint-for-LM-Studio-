@@ -21,7 +21,7 @@ LM Studio no está diseñado para recibir consultas externas (solo `localhost`),
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/lmstudio-fastapi.git](https://github.com/DaveSV/FastAPI-Endpoint-for-LM-Studio-.git)
+   git clone https://github.com/tu-usuario/lmstudio-fastapi.git
    cd lmstudio-fastapi
    ```
    
