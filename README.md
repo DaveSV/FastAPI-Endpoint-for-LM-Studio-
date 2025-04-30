@@ -49,4 +49,7 @@ POST http://<ip-local-del-servidor>:8000/chat
 curl -X POST http://localhost:8000/chat   -H "Content-Type: application/json"   -d '{"prompt": "In short, what is a Capybara?"}'
 ```
 
+![Captura de pantalla 2025-04-30 164949](https://github.com/user-attachments/assets/4eead3f2-862c-4b00-b526-6661dc19db87)
+
+
 ![Captura de pantalla 2025-04-29 203900](https://github.com/user-attachments/assets/d19291c4-f062-43f5-b168-ca091592197e)
